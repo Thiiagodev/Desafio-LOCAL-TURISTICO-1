@@ -1,0 +1,33 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  padding: 88 80 137 80;
+}
+
+#viagem {
+  font-weight: bold;
+  color: #e1624f;
+  font-size: 16px;
+  padding-top: 88;
+  padding-bottom: 8px;
+}
+#conhecabusan {
+  font-size: 36px;
+  padding-bottom: 40px;
+}
+
+#busandesc {
+  font-size: 16px;
+  /* font-weight: inherit; */
+  /* text-align: center; */
+  /* text-justify: auto; */
+}
+
+img {
+  border-radius: 28px;
+  width: 100%;
+}
+
+ul li::marker {
+  color: #333333;
+}
+/* meu deus */
